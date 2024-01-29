@@ -4,7 +4,7 @@ import fs from 'fs'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
+  ['+42157/2304345', 'gab', true],
   ['xxxxxxxxxx',],
   //['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
